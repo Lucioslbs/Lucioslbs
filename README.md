@@ -21,4 +21,4 @@
 
 ## GitHub Cards
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Lucioslbs&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF&size_weight=0&count_weight=0&layout=donut)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Lucioslbs&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF&size_weight=0.5&count_weight=0.5&layout=donut)
