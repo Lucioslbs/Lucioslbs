@@ -2,7 +2,11 @@
 
 ## Resumo ✔
 
-## Atualmente estudando programação, fiz curso em C# e Python em CC50 de Harvard e agora estou me desenvolvendo no curso Python na Dio, buscando sempre aprender e me desenvolver cada vez mais.
+## Luciano - Desenvolvedor em Formação
+
+Atualmente, estou me dedicando ao estudo de programação e desenvolvimento de software. Completei cursos em C# e Python através do CC50 de Harvard, e agora estou aprofundando meus conhecimentos no curso de Python na Dio.
+
+Sou apaixonado por aprender novas tecnologias e práticas de desenvolvimento, sempre em busca de me aprimorar e expandir minhas habilidades. Estou animado para aplicar o que aprendi em projetos práticos e colaborar em desafios no mundo da programação.
  
 ## Estou estudando atualmente:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
